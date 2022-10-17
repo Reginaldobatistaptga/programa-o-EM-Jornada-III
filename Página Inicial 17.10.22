@@ -1,7 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt" dir="ltr">
   <head>
     <meta charset="utf-8">
     <title>Página Inicial</title>
     <link rel="stylesheet" href="style.css">
   </head>
+
+   <body>
+
+    <header>
+      <img src="https://www.google.com/search?q=formadores+em+a%C3%A7%C3%A3o+seed&rlz=1C1GCEU_pt-BRBR1017BR1017&sxsrf=ALiCzsYEJUN-yWlOTOjjNImhyae249ybUg:1666025818240&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkpdTo3ef6AhXWpJUCHbqpA5kQ_AUoBHoECAIQBg&biw=944&bih=916&dpr=1#imgrc=eRWgrrMK3F237M">
+      <ul>
+<li>Página imagem-principal</li>
+<li>Sobre o Grupo</li>
+<li>Mais informações</li>
+</ul><ul></ul>
+    </header>
